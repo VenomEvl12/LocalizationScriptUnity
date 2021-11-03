@@ -30,7 +30,7 @@ Ready and simple C# script to read a Json file(s) for localization
   }
 ]
 ```
-	for key, the value must be all in lowercase.
+	for key, the value must be in lowercase.
 
 	you can check in json folder for example
 	
@@ -38,7 +38,7 @@ Ready and simple C# script to read a Json file(s) for localization
 
 ## LocalizeObservable
 
-	Place this script on your GameObject, you want to localize.
+	Place this script on your GameObject that you want to localize.
 
 	You dont need to set text on the Text Component.
 
