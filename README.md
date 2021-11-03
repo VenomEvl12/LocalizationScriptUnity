@@ -8,10 +8,10 @@ Ready and simple C# script to read a Json file(s) for localization
 
 ### Features
 
-- Language
+- (Language in Editor)
 	Use for select which language do you want start from. ( base on list of json file(s) index )
-- jsonFiles
-	Insert son file(s) here
+- (jsonFiles in Editor)
+	Insert json file(s) here
 
 	format for json ( example )
 ```json
@@ -46,7 +46,7 @@ Ready and simple C# script to read a Json file(s) for localization
 
 - Auto set text to value in json file
 
-- Key
+- (Key in Editor)
 	Input your key value here from json file.
 
 ## LocalizeButton
